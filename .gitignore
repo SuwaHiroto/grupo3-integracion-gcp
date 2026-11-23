@@ -1,0 +1,9 @@
+# Entorno virtual y caché de Python
+venv/
+__pycache__/
+*.pyc
+
+# Credenciales y variables de entorno (NUNCA subir a GitHub)
+.env
+credenciales-gcp.json
+*.json
